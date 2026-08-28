@@ -2,7 +2,7 @@
 #include <SDL2/SDL.h>
 #include <algorithm>
 #include <cmath>
-#include <vector>
+#include <vector>//include library
 
 struct _2DLine
 {
